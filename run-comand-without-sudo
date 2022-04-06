@@ -1,0 +1,1 @@
+sudo gpasswd -a $USER docker #Create group first when the group doesn't exist.
